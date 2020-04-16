@@ -1,3 +1,5 @@
+https://hyperskill.org/projects/66/stages/359/implement
+
 # Simple_search_engine
 Description
 Now,  improve your search engine to support complex queries containing a sequence of words and a strategy that determines how to match data.
